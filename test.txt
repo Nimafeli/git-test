@@ -1,1 +1,2 @@
+one line has been deleted and another one was added to the bottom of this line
 test
